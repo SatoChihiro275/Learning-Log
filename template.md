@@ -1,3 +1,5 @@
+**学習ログ**: YYYY-MM-DD
+
 # タイトル
 
 ## 概要
@@ -58,6 +60,9 @@ def example():
 ### 参考文献
 - [リンクテキスト](リンクURL)
 - [リンクテキスト](リンクURL)
+<div align="center">
+    <img src="リンクURL" alt="リンクテキスト" width="500"/>
+</div>
 
 ### 折りたたみ
 <details><summary>サンプルコード</summary>
