@@ -26,6 +26,11 @@
 
 ## 追加のマークダウン書式
 
+### 画像
+<div align="center">
+    <img src="./images/Mel-Spectrogram.png" alt="Spec-Gradの概略図" width="500"/>
+</div>
+
 ### 強調
 **太字**や*イタリック*、~~取り消し線~~を使用できます。
 
